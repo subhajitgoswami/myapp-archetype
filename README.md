@@ -29,4 +29,4 @@ $ mvn archetype:generate \
      -DarchetypeVersion=1.0.0-SNAPSHOT
      
 Sample app generated from that archetype
-https://github.com/subhajitgoswami/myapp-archetype.git
+https://github.com/subhajitgoswami/sampleproject.git

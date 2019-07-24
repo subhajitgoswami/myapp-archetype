@@ -22,11 +22,8 @@ $ cd myapp-archtype
 $ mvn clean install
 
 Create a project
-$ mvn archetype:generate \
-     -DarchetypeCatalog=local \
-     -DarchetypeArtifactId=myapp-archetype \
-     -DarchetypeGroupId=com.subhajit.archetype \
-     -DarchetypeVersion=1.0.0-SNAPSHOT
+
+$mvn archetype:generate -DarchetypeCatalog=local -DarchetypeArtifactId=myapp-archetype -DarchetypeGroupId=com.subhajit.archetype -DarchetypeVersion=1.0.0-SNAPSHOT
      
 Sample app generated from that archetype
-https://github.com/subhajitgoswami/myapp-archetype.git
+https://github.com/subhajitgoswami/sampleproject.git
