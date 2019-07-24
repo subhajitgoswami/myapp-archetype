@@ -1,0 +1,43 @@
+
+
+# Eclipse
+.buildpath
+.classpath
+.loadpath
+.metadata
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+# Node
+/**/node/
+/**/node_modules/
+
+
+# Maven
+log/
+target/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Java
+*.class
+
+# Directories
+/build/
+/bin/
+/out/
+/deploy/
+
+# Logs
+*.log
