@@ -11,8 +11,7 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 @SpringBootApplication
 @EnableScheduling
 @EnableRetry
-public class $ {
-	project-name}Application{
+public class ${project-name}Application{
 
 	public static void main(String[] args) {
 		final SpringApplication springApplication = new SpringApplication(Application.class);
